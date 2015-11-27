@@ -1,4 +1,4 @@
-Please extract all the files into one folder, and run `HelloCert.exe`.
+[Click here](https://github.com/Manouchehri/HelloCert/releases/download/v1.0.0.0/HelloCert.zip) to download a .zip of the necessary files. Please extract all the files into one folder, and run `HelloCert.exe`.
 
 At the time of submission, Windows Defender only warns about the eDellRoot sample. No vendors currently detect applications signed with Atheros. (AVG and Qihoo-360 appear to be giving unrelated false positive.).
 
